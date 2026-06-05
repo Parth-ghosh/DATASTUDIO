@@ -1,3 +1,11 @@
 streamlit
 pandas
 plotly
+openpyxl
+xlrd
+```matplotlib
+seaborn
+scikit-learn
+statsmodels
+pythonnumpy
+```scipy
