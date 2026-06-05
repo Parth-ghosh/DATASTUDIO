@@ -3,9 +3,9 @@ pandas
 plotly
 openpyxl
 xlrd
-```matplotlib
+matplotlib
 seaborn
 scikit-learn
 statsmodels
-pythonnumpy
-```scipy
+numpy
+scipy
